@@ -1,0 +1,2 @@
+Age,MasculineSex,Weight(kg),Height(cm),HeartRate,SystolicBP,DiastolicBP,Hypertension,CurrentSmoker,SmokingHistory,Dyslipidemia,Diabetes
+70,1,85,176,78,120,78,1,1,1,1,1
